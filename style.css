@@ -1,6 +1,4 @@
-.box {
-    width: 400px;
-    height: 400px;
+p {
+    font-size: 40px;
     color: blueviolet;
-    border: 1px solid blue;
 }
